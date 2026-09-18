@@ -1,0 +1,6 @@
+# Roadmap
+
+- [ ] Uploaded repo and screenshot को आधार बनाकर वही Aura AI landing page refine करना
+- [ ] ऊपर से navigation links, search, Sign in और Get started हटाना
+- [ ] एक polished single-page interactive experience बनाना और requested scrolling behavior रखना
+- [ ] impactful features को refine/add/remove करना और desktop/mobile पर verify करना
