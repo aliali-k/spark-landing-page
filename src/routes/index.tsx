@@ -67,7 +67,7 @@ function Index() {
           <p aria-live="polite" className="mt-2 min-h-5 text-[10px] font-semibold uppercase tracking-[0.18em] text-muted-foreground sm:text-xs">{submitted ? `Exploring “${submitted}”` : "Choose a path below or ask anything"}</p>
         </div>
 
-        <div className="feature-map relative mt-3 flex-1">
+        <div className="feature-map relative mt-3 h-[230px]">
           <div className="path-line" aria-hidden="true" />
           <div className="grid h-full grid-cols-2 gap-2 sm:grid-cols-5 sm:grid-rows-2 lg:gap-3">
             {paths.map(({ number, title, copy, icon: Icon, tone, prompt }) => (
